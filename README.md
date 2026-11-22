@@ -14,12 +14,12 @@
 
 <br />
 
-<a href="https://github.com/HAHridoy">
+<a href="https://github.com/hosainool-alam">
   <img src="https://komarev.com/ghpvc/?username=HAHridoy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </a>
 
-<a href="https://github.com/HAHridoy?tab=followers">
-  <img src="https://img.shields.io/github/followers/HAHridoy?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+<a href="https://github.com/hosainool-alam?tab=followers">
+  <img src="https://img.shields.io/github/followers/hosainool-alam?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
 </a>
 
 </div>
@@ -119,7 +119,7 @@ I enjoy exploring datasets, identifying meaningful patterns, and transforming ra
 
 <br />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=HAHridoy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=hosainool-alam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -149,7 +149,7 @@ I'm always interested in connecting with fellow data enthusiasts, analysts, and 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:hosainoolalam123@gmail.com">
+<a href="mailto:hridoy.echo@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
