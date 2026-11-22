@@ -115,7 +115,7 @@ I enjoy exploring datasets, identifying meaningful patterns, and transforming ra
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hosainool-alam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAHridoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainool-alam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br />
 
